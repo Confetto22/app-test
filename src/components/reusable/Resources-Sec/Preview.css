@@ -1,0 +1,12 @@
+.preview{
+    background-color: #1a1a1a;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 1px solid #262626;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 7px;
+    color: #98989a;
+    /* width: 35%; */
+}

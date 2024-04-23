@@ -1,0 +1,22 @@
+.blog_card{
+    padding: 1.5rem 1.5rem;
+    /* background-color: yellow; */
+    border: 1px solid #262626;
+    border-radius: 10px;
+    background-color: #1d1d1d;
+    
+}
+.card_head{
+    font-family: "inter", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fff;
+}
+.card_text{
+    color: #9a9a9a;
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    line-height: 21px;
+    font-size: 14px;
+}

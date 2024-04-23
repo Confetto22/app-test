@@ -1,0 +1,20 @@
+.profile_dets{
+    display: flex;
+    align-items: center;
+    gap: .7rem;
+
+}
+.profileName{
+    color: #fff;
+    font-family: "inter", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+.profileRole{
+    color: #98989a;
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: .3rem;
+}

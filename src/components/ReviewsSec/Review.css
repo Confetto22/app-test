@@ -1,0 +1,11 @@
+.reviews_section{
+    padding: 0 1rem;
+    padding-bottom: 2rem;
+}
+.review_profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+}

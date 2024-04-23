@@ -1,0 +1,23 @@
+.ratings{
+    background-color: #1a1a1a;
+    width: 140px;
+    height: 36px;
+    border: 1px solid #262626;
+    border-radius: 100px;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    justify-content: center;
+    /* padding: 8px 12px; */
+    bottom: 18px;
+    position: relative;
+    
+     
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+.ratings img{
+    width: 20px;
+    height: 20px;
+}

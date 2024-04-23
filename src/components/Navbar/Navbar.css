@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #1a1a1a;
+}
+.nav_actual{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 16px 20px 16px ;
+    background-color: #262626;
+    border-top: 1px solid #525252;
+    border-bottom: 1px solid #525252;
+}
+.logo img{
+    width: 125.23px;
+    height: 35px;
+}
+.top_sec{
+    padding: 1.4rem 0;
+}
+.top_sec p{
+    color: #98989A;
+    text-transform: capitalize;
+}
+.menuAnimate{
+    transform: rotate(270deg);
+}
+.top_sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 2.4rem;
+}
+.phone_menu img{
+    width: 34px;
+    height: 34px;
+}

@@ -1,0 +1,21 @@
+.blog_intro{
+    font-family: "kumbh sans", sans-serif;
+    padding: 3rem 1.6rem;
+    border-bottom: 1px solid #262626;
+}
+.blogHeading{
+    color: #fff;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    margin:  .7rem 0;
+    
+
+}
+.blogSubHeading{
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #98989a;
+    line-height: 21px;
+}

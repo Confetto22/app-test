@@ -1,0 +1,46 @@
+.section4_intro button{
+    margin-top: 0;
+    background-color: #1a1a1a;
+}
+.section4_intro .secHeading{
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+.section4_intro{
+    background-color: #1f1f1f;
+    padding: 0 2rem;
+    padding-bottom: 2rem;
+    border-top: 1px solid #262626;
+    border-bottom: 1px solid #262626;
+}
+.sec4_filter{
+    padding: 1.6rem 1rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    border-bottom: 1px solid #262626;
+}
+.profileCards{
+    /* padding: 2rem 0; */
+    
+}
+.profileTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: .5rem;
+    padding: 0 .6rem;
+    
+}
+.profileTop button{
+    width: 40%;
+    margin-top: 0;
+}
+.singleCard{
+    border-bottom: 1px solid #262626;
+    padding-top: 1.4rem;
+    padding-bottom: 2.4rem;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Kumbh+Sans:wght@100..900&display=swap');
+
+
+
+.hero_info{
+    display: grid;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    grid-template-columns: 1fr 1fr 1fr;
+    /* padding: 0 2rem; */
+}
+.hero_stats{
+    
+    border-right: 2px solid #262626;
+    padding: 0 2rem;
+    
+    
+}
+.hero_stats:last-child{
+    border: none;
+}
+.figure{
+    font-family: "inter", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    color: #fff;
+    padding-top: 2rem;
+}
+.plus{
+    color: gold;
+    font-size: 24px;
+}
+.stats_text{
+    font-family: "inter", sans-serif;
+    color: #98989a;
+    font-weight: 400;
+    line-height: 21px;
+    font-size: 14px;
+    padding-bottom: 1rem;
+}
+.hero_resources{
+    padding: 5rem 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #262626;
+    
+}

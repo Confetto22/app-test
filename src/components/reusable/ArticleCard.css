@@ -1,0 +1,43 @@
+.article_card{
+    border-bottom: 1px solid #262626;
+    padding: 2rem  0;
+    font-family: "inter", sans-serif;
+}
+.article_card:last-child{
+    border: none;
+}
+.card_head{
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: .6rem;
+}
+.card_text{
+    color: #7e7e81;
+    font-size: 14px;
+    font-weight: 400;
+}
+.text_arrow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+.arrow{
+    border: none;
+
+    background-color: #ffd11a;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+}
+.article_stat{
+    font-family: "kumbh sans", sans-serif;
+    color: #98989a;
+    font-size: 16px;
+    font-weight: 400;
+}

@@ -1,0 +1,16 @@
+.explorebt {
+    font-family: "inter", sans-serif;
+    border: 1px solid #262626;
+    background-color: transparent;
+    color: #98989a;
+    font-size: 14px;
+    padding: 14px 20px 14px 20px;
+    width: 100%;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-weight: 400;
+    margin-top: 2rem;
+}

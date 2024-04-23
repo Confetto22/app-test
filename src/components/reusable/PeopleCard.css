@@ -1,0 +1,15 @@
+.people_card{
+    /* background-color: red; */
+    display: inline-block;
+    padding: 10px 8px;
+    border: 1px solid #262626;
+    background-color: #1f1f1f;
+    border-radius: 100px;
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+.people_card img{
+    
+    
+    
+}

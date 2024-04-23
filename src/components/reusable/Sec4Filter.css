@@ -1,0 +1,15 @@
+.filterOption{
+    border: 1px solid #262626;
+    background-color: transparent;
+    color: #98989a;
+    padding: 18px 16px;
+    width: 151px;
+    height: 57px;
+    border-radius: 7px;
+    font-family: "inter", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

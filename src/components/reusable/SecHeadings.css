@@ -1,0 +1,26 @@
+.secHeading{
+    
+    padding: 2rem;
+    background-color: #1f1f1f;
+    border-top: 1px solid #262626;
+    border-bottom: 1px solid #262626;
+}
+.title{
+    color: #fff;
+    font-family: "inter", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #333;
+    padding: 8px 8px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: .6rem;
+    text-transform: capitalize;
+}
+.subTitle{
+    color: #fff;
+    font-family: "kumbh sans", sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}

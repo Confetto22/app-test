@@ -1,0 +1,29 @@
+.downloads_card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "inter", sans-serif;
+    background-color: #1f1f1f;
+    margin-top: 1.4rem;
+    margin-bottom: 2.4rem;
+    
+    padding: 20px 30px;
+    border-radius: 8px;
+    border: 1px solid #262626;
+}
+.downloads_card .people_card{
+    margin: 0;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+}
+.cardText{
+    font-size: 14px;
+    font-weight: 400;
+    color: #98989a;
+    margin-bottom: .3rem;
+}
+.cardDetail{
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}

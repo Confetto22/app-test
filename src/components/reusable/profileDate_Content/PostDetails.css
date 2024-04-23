@@ -1,0 +1,25 @@
+.post_details{
+    padding: 2rem 1rem;
+    font-family: "inter", sans-serif;
+}
+.date{
+    
+    color: #98989a;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 1.4rem;
+}
+.heading{
+    color: #fff;
+    
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    margin-bottom: .4rem;
+}
+.content{
+    color: #98989a;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}

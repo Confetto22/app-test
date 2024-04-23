@@ -1,0 +1,48 @@
+.all_resources{
+    padding: 2rem 1rem;
+}
+.intro-details{
+    border-bottom: 2px solid #262626;
+}
+
+.resource_container .blog_intro{
+    border-bottom: none;
+    padding: 2rem 0;
+}
+.all_resources .explorebt{
+    background-color:#1f1f1f;
+    
+}
+.introStats{
+    border-bottom: 1px solid #262626;
+}
+.intro-details .people_card{
+    display: none;
+}
+.introStats .preview{
+    display: none;
+}
+.card_row .preview{
+    display: none;
+}
+.card_row .downloads_card:nth-of-type(2) .preview{
+    display: flex;
+    width: 30%;
+}
+
+.card_row .downloads_card .cardDetail{
+    font-weight: 500;
+    font-size: 16px;
+
+}
+
+
+.intro-details .downloads_card{
+    margin: 1.3rem 0;
+
+}
+
+.all_resources .introStats .people_card:nth-child(3){
+    background-color: yellow;
+    
+}
